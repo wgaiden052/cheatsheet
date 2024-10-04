@@ -1,0 +1,53 @@
+*{
+    background-color: lightgrey;
+    font-family: monospace;
+}
+
+caption {
+    font-size: 30px;
+    font-weight: 800;
+    background-color: bisque;
+    border: 3px solid black;
+}
+
+table{
+    background-color: bisque; 
+    font-size: 25px;
+    padding: 20px 20px 20px;
+    border: 3px solid black;
+    border-spacing: 20px;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th {
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 15px 15px;
+    border: 1px solid black;
+    background-color: bisque;
+}
+
+td{
+    text-align: center;
+    padding: 15px 15px 15px;
+    border: 1px solid black;
+    background-color:bisque
+}
+
+.htmlsyn{
+    font-size: 18px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol.htmlsyn{
+    text-align: left;
+    margin-left: 20%;
+    line-height: 2.2;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
